@@ -1,0 +1,11 @@
+.header{
+    margin-left: -10px;
+    padding-left: 100px;
+    background-color: whitesmoke;
+    width: 1420px;
+    height: 50px;
+    margin-top: -10px;
+    display: flex;
+    align-items: center;
+    
+}
